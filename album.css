@@ -1,0 +1,27 @@
+
+
+
+
+body{
+   
+    font-family: sans-serif;
+
+}
+.banner{
+    background-image: url('m24.jpg');
+    background-size: cover;
+    background-position: center;
+
+
+}
+.about{
+    padding-top: 3%;
+    background-color: rgb(24, 23, 23);
+    color: #fff;
+    height: 90vh;
+}
+
+.container img{
+    height: 250px;
+    width: 270px;
+}
